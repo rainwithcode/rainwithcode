@@ -1,29 +1,14 @@
-# Hi 👋 I'm Rain!
-## Frontend Developer
+# Hi 💧 I'm Rain!
+## Software Developer
+
+I am a self-taught software developer with a focus on web experiences that make everyday life simpler.
 
 
-**🌧️ 100% chance of Rain... and Code!**
+- 🌎 If it’s raining, I might already be nearby
+- 🖥️ Check out my developer website and portfolio at [rainwithcode.com](https://www.rainwithcode.com/)
+- 👩‍💻 Open to work and collaborations 
+- 💬 [Let's chat!](https://calendly.com/rainkalugdan/30min?month=2025-11&date=2025-11-16)
+- 🤍 I love podcasts, dogs, and KPOP
 
-I’m passionate about creating accessible, minimalist web experiences that make everyday life simpler.
-
-My work is rooted in clarity, inclusivity, and sustainability, proving that good design doesn’t need complexity to be effective.
-
-- 👩‍💻 Open to work!
-- ✨ Minimal code, maximum results
-- 🤍 Always learning
-- 💬 [Let's chat!](https://calendly.com/rainkalugdan/30min?month=2025-11&date=2025-11-16) 
-
-<!--
-**hello-rain/hello-rain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Web Profiles
+- [Linkedin](https://www.linkedin.com/in/rain-kalugdan-98a457301/)
