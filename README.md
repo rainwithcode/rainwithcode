@@ -1,7 +1,7 @@
 # Hi 💧 I'm Rain!
 ## Software Developer
 
-I am a self-taught software developer with a focus on web experiences that make everyday life simpler.
+I am a software developer with a focus on web experiences that make everyday life simpler.
 
 
 - 🌎 If it’s raining, I might already be nearby
