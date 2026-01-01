@@ -12,4 +12,4 @@ I am a software developer with a focus on web experiences that make everyday lif
 
 ## My Web Profiles
 
-- [Linkedin](https://www.linkedin.com/in/rain-kalugdan-98a457301/)
+- [Linkedin](https://www.linkedin.com/in/rain-kalugdan)
