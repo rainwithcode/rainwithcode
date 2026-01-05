@@ -7,13 +7,14 @@ I am a software developer with a focus on web experiences that make everyday lif
 - 🇵🇭 Filipina
 - 👩‍💻 Check out my developer website and portfolio at [rainwithcode.com](https://www.rainwithcode.com/)
 - 🤝 Open to work and collaborations! 
-- 💌 Connect with me at [hello@rainwithcode.com](mailto:hello@rainwithcode.com?subject=Hey%20Rain&body=Hi%20Rain%2C%0A%0AI%20came%20across%20your%20GitHub%20and%20wanted%20to%20reach%20out...)
+- 💌 Say hello at [hello@rainwithcode.com](mailto:hello@rainwithcode.com?subject=Hey%20Rain&body=Hi%20Rain%2C%0A%0AI%20came%20across%20your%20GitHub%20and%20wanted%20to%20reach%20out...) — @rainwithcode everywhere else.
 - 🤍 I love podcasts, dogs, and KPOP
 
 ## My Web Profiles
 
 - [Linkedin](https://www.linkedin.com/in/rain-kalugdan)
 - [Bluesky](https://bsky.app/profile/rainwithcode.bsky.social)
+
 ## My Tech Stack
 
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
