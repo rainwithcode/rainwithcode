@@ -6,18 +6,18 @@ I build accessible, user-centered web applications that make everyday experience
 
 Founder of **[Rain With Code](https://www.rainwithcode.com/)** · Event Lead at **freeCodeCamp**
 
+💼 Open to software engineering opportunities and collaborations
+
 <img
   src="./assets/soft-rain.gif"
   alt="Soft animated rainfall"
   width="100%"
 />
 
-## 🌱 Currently
+## ✨ Featured Work
+### [Bits ’N Speeches](https://bitsnspeeches.org/)
+A production web platform for managing Toastmasters meetings, guest registrations, and club operations.
 
-- 👩‍💻 Building web applications through **[Rain With Code](https://www.rainwithcode.com/)**
-- 🤍 Developing **[Bits ’N Speeches](https://bitsnspeeches.org/)**, a web platform for managing a Toastmasters club
-- 📢 Leading and training event coordinators at **freeCodeCamp**
-- 💼 Open to software engineering opportunities and collaborations
 
 ## 🛠️ Tech Stack
 
