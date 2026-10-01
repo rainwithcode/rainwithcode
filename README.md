@@ -4,7 +4,7 @@
 
 I build accessible, user-centered web applications that make everyday experiences simpler.
 
-Founder of **[Rain With Code](https://www.rainwithcode.com/)** · Event Lead at **freeCodeCamp**
+SWE Intern @ Arabius | Founder @ **[Rain With Code](https://www.rainwithcode.com/)** | Event Lead @ **freeCodeCamp**
 
 💼 Open to software engineering opportunities and collaborations
 
