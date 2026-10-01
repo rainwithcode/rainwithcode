@@ -1,26 +1,46 @@
 # Hi 💧 I'm Rain!
-## Software Developer
 
-I am a software developer with a focus on web experiences that make everyday life simpler.
+## Software Engineer
 
-- 👩‍💻 Check out my developer website and portfolio at [rainwithcode.com](https://www.rainwithcode.com/)
-- 🤝 Open to work and collaborations! 
-- 💌 Say hello at [hello@rainwithcode.com](mailto:hello@rainwithcode.com?subject=Hey%20Rain&body=Hi%20Rain%2C%0A%0AI%20came%20across%20your%20GitHub%20and%20wanted%20to%20reach%20out...)
-- 🤍 I love podcasts, dogs, and Thai dramas
+I build accessible, user-centered web applications that make everyday experiences simpler.
 
-## My Web Profiles
+Founder of **[Rain With Code](https://www.rainwithcode.com/)** · Event Lead at **freeCodeCamp**
 
-- [Linkedin](https://www.linkedin.com/in/rain-kalugdan)
-- [Bluesky](https://bsky.app/profile/rainwithcode.bsky.social)
+<img
+  src="./assets/soft-rain.gif"
+  alt="Soft animated rainfall"
+  width="100%"
+/>
 
-## My Tech Stack
+## 🌱 Currently
 
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
-[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-4184AA?style=flat&logo=react&logoColor=white)
-[![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#)
-![Bash](https://img.shields.io/badge/-Bash-223344?style=flat&logo=gnubash&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+- 👩‍💻 Building web applications through **[Rain With Code](https://www.rainwithcode.com/)**
+- 🤍 Developing **[Bits ’N Speeches](https://bitsnspeeches.org/)**, a web platform for managing a Toastmasters club
+- 📢 Leading and training event coordinators at **freeCodeCamp**
+- 💼 Open to software engineering opportunities and collaborations
+
+## 🛠️ Tech Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-ff7da2?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-ff7da2?logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-ff7da2?logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-ff7da2?logo=tailwindcss&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-ff7da2?logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-ff7da2?logo=supabase&logoColor=white)
+![Python](https://img.shields.io/badge/Python-ff7da2?logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-ff7da2?logo=django&logoColor=white)
+![Git](https://img.shields.io/badge/Git-ff7da2?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-ff7da2?logo=github&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-ff7da2?logo=vitest&logoColor=white)
+![Testing Library](https://img.shields.io/badge/Testing_Library-ff7da2?logo=testinglibrary&logoColor=white)
+
+## 💻 Find Me Online
+
+- 🌧️ [rainwithcode.com](https://www.rainwithcode.com/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/rain-kalugdan)
+- 🦋 [Bluesky](https://bsky.app/profile/rainwithcode.bsky.social)
+- 💌 [hello@rainwithcode.com](mailto:hello@rainwithcode.com?subject=Hey%20Rain&body=Hi%20Rain%2C%0A%0AI%20came%20across%20your%20GitHub%20and%20wanted%20to%20reach%20out...)
+
+---
+
+🤍 When I'm not coding, you'll probably find me listening to podcasts, spending time with dogs, or watching Thai dramas.
